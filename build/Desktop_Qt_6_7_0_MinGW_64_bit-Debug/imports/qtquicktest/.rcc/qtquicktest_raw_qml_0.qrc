@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/qtquicktest/">
+    <file alias="Constants.qml">E:/Programacion/qtquicktest/imports/qtquicktest/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">E:/Programacion/qtquicktest/imports/qtquicktest/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">E:/Programacion/qtquicktest/imports/qtquicktest/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">E:/Programacion/qtquicktest/imports/qtquicktest/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

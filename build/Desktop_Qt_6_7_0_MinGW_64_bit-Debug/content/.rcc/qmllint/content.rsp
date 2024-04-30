@@ -1,0 +1,13 @@
+--bare
+-I
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+E:/Qt/6.7.0/mingw_64/./qml
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmake_content.qrc
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/content_raw_qml_0.qrc
+E:/Programacion/qtquicktest/content/App.qml
+E:/Programacion/qtquicktest/content/Screen01.ui.qml

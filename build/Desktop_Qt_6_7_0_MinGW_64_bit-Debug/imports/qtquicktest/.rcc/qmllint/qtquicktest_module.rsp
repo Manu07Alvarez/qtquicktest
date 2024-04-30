@@ -1,0 +1,12 @@
+-I
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+E:/Qt/6.7.0/mingw_64/./qml
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/qtquicktest/.rcc/qmake_qtquicktest.qrc
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/qtquicktest/.rcc/qtquicktest_raw_qml_0.qrc
+--module
+qtquicktest

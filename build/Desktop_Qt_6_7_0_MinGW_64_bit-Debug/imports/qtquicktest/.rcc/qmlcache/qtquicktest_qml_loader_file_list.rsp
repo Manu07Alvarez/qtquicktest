@@ -1,0 +1,8 @@
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/qtquicktest/.rcc/qmake_qtquicktest.qrc
+--resource
+E:/Programacion/qtquicktest/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/qtquicktest/.rcc/qtquicktest_raw_qml_0.qrc
+/qt/qml/qtquicktest/Constants.qml
+/qt/qml/qtquicktest/DirectoryFontLoader.qml
+/qt/qml/qtquicktest/EventListModel.qml
+/qt/qml/qtquicktest/EventListSimulator.qml

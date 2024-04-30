@@ -1,0 +1,4 @@
+module Main
+typeinfo qtquicktestApp.qmltypes
+prefer :/qt/qml/Main/
+
